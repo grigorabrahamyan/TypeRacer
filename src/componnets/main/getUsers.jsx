@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useMemo } from 'react';
 import Loading from '../../assets/loading';
 
 const GetUsers = () => {
@@ -6,6 +6,14 @@ const GetUsers = () => {
   const [data, setData] = useState([]);
   const [correctData, setCorrectData] = useState([]);
   const [loading, setLoading] = useState(false);
+
+  const finsih = useMemo(() => {
+    let result = [...correctData];
+    if (result.length > 10) {
+      result = result.slice(0, 10);
+    }
+    return result;
+  }, [correctData]);  
 
   useEffect(() => {
     try {
@@ -57,7 +65,7 @@ const GetUsers = () => {
   return (
     <div className='startGame__wrapperUsers' >
       {
-        correctData.map((item, index) => {
+        finsih?.map((item, index) => {
           return (
             <div key={index} className='startGame__user' >
               <p>{`${item.firstName} ${item.lastName}`}</p>
