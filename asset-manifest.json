@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/TypeRacer/static/css/main.7ab18e06.chunk.css",
-    "main.js": "/TypeRacer/static/js/main.d601d9a9.chunk.js",
-    "main.js.map": "/TypeRacer/static/js/main.d601d9a9.chunk.js.map",
+    "main.js": "/TypeRacer/static/js/main.7b24b819.chunk.js",
+    "main.js.map": "/TypeRacer/static/js/main.7b24b819.chunk.js.map",
     "runtime-main.js": "/TypeRacer/static/js/runtime-main.6748e9a1.js",
     "runtime-main.js.map": "/TypeRacer/static/js/runtime-main.6748e9a1.js.map",
     "static/js/2.c68f7883.chunk.js": "/TypeRacer/static/js/2.c68f7883.chunk.js",
     "static/js/2.c68f7883.chunk.js.map": "/TypeRacer/static/js/2.c68f7883.chunk.js.map",
     "index.html": "/TypeRacer/index.html",
-    "precache-manifest.d6f9bed109fd25cee6f6cc8d3f4a8b35.js": "/TypeRacer/precache-manifest.d6f9bed109fd25cee6f6cc8d3f4a8b35.js",
+    "precache-manifest.93139bb8e63ac6e5eb2a7085aeee134a.js": "/TypeRacer/precache-manifest.93139bb8e63ac6e5eb2a7085aeee134a.js",
     "service-worker.js": "/TypeRacer/service-worker.js",
     "static/css/main.7ab18e06.chunk.css.map": "/TypeRacer/static/css/main.7ab18e06.chunk.css.map",
     "static/js/2.c68f7883.chunk.js.LICENSE.txt": "/TypeRacer/static/js/2.c68f7883.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6748e9a1.js",
     "static/js/2.c68f7883.chunk.js",
     "static/css/main.7ab18e06.chunk.css",
-    "static/js/main.d601d9a9.chunk.js"
+    "static/js/main.7b24b819.chunk.js"
   ]
 }
