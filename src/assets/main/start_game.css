@@ -1,0 +1,102 @@
+.startGame__title {
+    font-size: 2.5rem;
+    line-height: 3rem;
+    letter-spacing: 0.5px;
+    text-align: center;
+}
+
+.startGame__nameSpace {
+    display: flex;
+    margin: 0 -15px;
+    padding: 30px 0 30px 0;
+}
+
+.startGame__wrapperInput {
+    padding: 0 15px;
+    flex: 1;
+}
+
+.startGame__wrapperInput input {
+    width: 100%;
+    height: 100%;
+    font-size: 2rem;
+    padding: 10px;
+    border: 2px solid #4CCCC9;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.startGame__wrapperInput input:focus {
+    outline: none;
+}
+
+.startGame__wrapperButton {
+    display: flex;
+    justify-content: center;
+}
+
+.startGame__button {
+    flex: 0 0 50%;
+}
+
+.startGame__button button {
+    width: 100%;
+    height: 100%;
+    background-color: unset;
+    border: 2px solid #4CCCC9;
+    border-radius: 10px;
+    box-sizing: border-box;
+    font-size: 2rem;
+    padding: 10px;
+    cursor: pointer;
+    color: #4CCCC9;
+}
+
+.startGame__button button:focus {
+    outline: none;
+}
+
+.lessInput {
+    display: none;
+}
+
+.lessInput p {
+    font-size: 1.5rem;
+    line-height: 2.3rem;
+    letter-spacing: 0.5px;
+    color: red;
+}
+
+.showMassage {
+    display: block;
+}
+
+.startGame__wrapperUsers {
+    padding: 35px;
+    box-shadow: 3px 3px 20px #00000014;
+    border-radius: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 250px;
+}
+
+.startGame__user {
+    font-size: 1.2rem;
+    line-height: 2.3rem;
+    letter-spacing: 0.5px;
+    flex: 0 0 50%;
+}
+
+.startGame__user p {
+    opacity: 0.5;
+}
+
+.startGame__user:last-child {
+    border-bottom: unset;
+}
+
+.startGame__user p:first-child {
+    font-size: 2rem;
+    line-height: 3rem;
+    opacity: 1;
+}

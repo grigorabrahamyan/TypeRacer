@@ -1,0 +1,64 @@
+.endGame__title {
+    font-size: 3rem;
+    line-height: 2.3rem;
+    letter-spacing: 0.5px;
+    text-align: center;
+}
+
+.endGame__wrapperText {
+    padding-bottom: 100px;
+}
+
+.endGame__text {
+    font-size: 2.5rem;
+    line-height: 2.3rem;
+    letter-spacing: 0.5px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.endGame__result {
+    font-size: 4rem;
+    line-height: 2.3rem;
+    letter-spacing: 0.5px;
+    color: #4CCCC9;
+    text-align: center;
+    padding-left: 10px;
+}
+
+.endGame__saveWrapper {
+    display: flex;
+    justify-content: center;
+    margin: 0 -15px;
+}
+
+.endGame__button {
+    flex: 0 0 50%;
+    padding: 0 15px;
+}
+
+.endGame__button button {
+    width: 100%;
+    height: 100%;
+    background-color: unset;
+    border: 2px solid #4CCCC9;
+    border-radius: 10px;
+    box-sizing: border-box;
+    font-size: 2rem;
+    padding: 10px;
+    cursor: pointer;
+    color: #4CCCC9;
+}
+
+.endGame__button button:focus {
+    outline: none;
+}
+
+.endGame__afterSave {
+    padding-bottom: 20px;
+    font-size: 1.5rem;
+    line-height: 2.3rem;
+    letter-spacing: 0.5px;
+    text-align: center;
+    opacity: 0.5;
+}

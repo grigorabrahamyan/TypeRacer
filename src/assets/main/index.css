@@ -1,0 +1,9 @@
+@import './game_place.css';
+@import './start_game.css';
+@import './end_game.css';
+.container {
+    height: 100%;
+    width: 998px;
+    flex: 1 1 auto;
+    padding: 30px;
+}

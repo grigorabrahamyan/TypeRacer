@@ -1,0 +1,87 @@
+.text {
+    box-shadow: 3px 3px 20px #00000014;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+.text__fetch {
+    margin-bottom: 30px;
+}
+
+.text__fetch span {
+    font-size: 1.5rem;
+    line-height: 2.3rem;
+    letter-spacing: 0.5px;
+}
+
+.text__correct>div {
+    width: 100%;
+    height: 100%;
+}
+
+.text__textarea {
+    width: 100%;
+    height: 100%;
+    font-size: 1.3rem;
+    line-height: 2rem;
+    letter-spacing: 1px;
+    border-radius: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    height: 300px;
+    border: 2px solid #4CCCC9;
+}
+
+.text__textarea:focus {
+    outline: none;
+}
+
+.true__str {
+    color: #4cccc9;
+}
+
+.wrong__str {
+    color: red;
+}
+
+.wrapper__timer__wrong {
+    display: flex;
+    justify-content: space-between;
+}
+
+.same {
+    box-shadow: 3px 3px 20px #00000014;
+    padding: 30px;
+    border-radius: 30px;
+    position: fixed;
+    top: 110px;
+}
+
+.timer {
+    right: 30px;
+}
+
+.same p {
+    font-size: 2.5rem;
+    line-height: 2.3rem;
+    letter-spacing: 0.5px;
+    text-align: center;
+}
+
+.timer p:first-child {
+    color: #4CCCC9;
+}
+
+.same p:first-child {
+    font-size: 1.5rem;
+    line-height: 2.3rem;
+    text-align: center;
+}
+
+.wrong {
+    left: 30px;
+}
+
+.wrong p:first-child {
+    color: red;
+}

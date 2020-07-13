@@ -1,0 +1,9 @@
+.footer {
+    background-color: #4CCCC9;
+    height: 80px;
+    min-width: 100%;
+}
+
+.footer h1 {
+    text-align: center;
+}
