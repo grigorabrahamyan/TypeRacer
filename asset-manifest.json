@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/grigorabrahamyan/TypeRacer/static/css/main.7ab18e06.chunk.css",
+    "main.js": "/grigorabrahamyan/TypeRacer/static/js/main.0d61a58d.chunk.js",
+    "main.js.map": "/grigorabrahamyan/TypeRacer/static/js/main.0d61a58d.chunk.js.map",
+    "runtime-main.js": "/grigorabrahamyan/TypeRacer/static/js/runtime-main.133798d1.js",
+    "runtime-main.js.map": "/grigorabrahamyan/TypeRacer/static/js/runtime-main.133798d1.js.map",
+    "static/js/2.c68f7883.chunk.js": "/grigorabrahamyan/TypeRacer/static/js/2.c68f7883.chunk.js",
+    "static/js/2.c68f7883.chunk.js.map": "/grigorabrahamyan/TypeRacer/static/js/2.c68f7883.chunk.js.map",
+    "index.html": "/grigorabrahamyan/TypeRacer/index.html",
+    "precache-manifest.c5555c0d1d453d758986b84938c02197.js": "/grigorabrahamyan/TypeRacer/precache-manifest.c5555c0d1d453d758986b84938c02197.js",
+    "service-worker.js": "/grigorabrahamyan/TypeRacer/service-worker.js",
+    "static/css/main.7ab18e06.chunk.css.map": "/grigorabrahamyan/TypeRacer/static/css/main.7ab18e06.chunk.css.map",
+    "static/js/2.c68f7883.chunk.js.LICENSE.txt": "/grigorabrahamyan/TypeRacer/static/js/2.c68f7883.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.133798d1.js",
+    "static/js/2.c68f7883.chunk.js",
+    "static/css/main.7ab18e06.chunk.css",
+    "static/js/main.0d61a58d.chunk.js"
+  ]
+}
